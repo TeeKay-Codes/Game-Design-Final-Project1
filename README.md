@@ -20,7 +20,7 @@ This project uses several design patterns:
 
 **Command Pattern**
 - Uses ICommand and ShootCommand to separate player input from the shooting action.
-- `PlayerInputHandler` executes the shooting command when the player clicks.
+- PlayerInputHandler executes the shooting command when the player clicks.
 
 **Factory Pattern**
 - EnemyFactory handles the creation of enemy instances from a prefab.
