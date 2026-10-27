@@ -1,5 +1,7 @@
 # Slime Arena
 
+## Gameplay & Design Pattern Explanation Video
+https://youtu.be/_pNWiIabZ8A
 ## About the Game
 
 Slime Arena is a first-person wave-survival game set in an abandoned industrial facility. The goal is to survive five waves of slime enemies, with each wave increasing in difficulty.
