@@ -40,7 +40,7 @@ The project was developed in Unity. Development involved setting up the player, 
 
 ## AI Acknowledgement
 
-ChatGPT was used for troubleshooting and documentation. Testing and any adjustments were carried out during my development.
+ChatGPT was used for troubleshooting ideas and concepts. Any actual adjustments, coding, models, art, etc...were carried out by me and solely me during my development.
 
 ## Project Information
 
