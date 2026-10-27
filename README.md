@@ -4,6 +4,7 @@
 https://youtu.be/_pNWiIabZ8A
 
 ##Proof of progression
+
 https://www.figma.com/design/5yiF3vCjUzeGPaE4PuEeoV/Untitled?node-id=0-1&t=iGZkWLj5PYlv6gXC-1
 
 ## About the Game
