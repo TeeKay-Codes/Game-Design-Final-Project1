@@ -7,7 +7,7 @@ https://youtu.be/_pNWiIabZ8A
 
 https://www.figma.com/design/5yiF3vCjUzeGPaE4PuEeoV/Untitled?node-id=0-1&t=iGZkWLj5PYlv6gXC-1
 
-## About the Game
+## About Slime Arena
 
 Slime Arena is a first-person wave-survival game set in an abandoned industrial facility. The goal is to survive five waves of slime enemies, with each wave increasing in difficulty.
 
